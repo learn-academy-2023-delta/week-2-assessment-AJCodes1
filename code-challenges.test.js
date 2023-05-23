@@ -34,6 +34,8 @@ describe("divisible", () => {
     })
 })
 
+
+
 const object1 = { number: 15 }
 // Expected output: "15 is divisible by three"
 const object2 = { number: 0 }

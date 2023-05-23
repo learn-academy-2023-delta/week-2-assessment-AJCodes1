@@ -13,6 +13,8 @@ console.log(cohort.split(""))
 // a) Your answer:will log delta 2023 as an array with each letter separated
 // b) Verify and explain:.split turns a string to an array and the "" encapsulates every character
 
+
+
 // --------------------2) What will this log?
 
 const greeter = (name) => {

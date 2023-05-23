@@ -16,6 +16,8 @@ Researched answer: the values that are declared within a function when the funct
 
 Your answer:
 
+
+
 Researched answer:
 
 3. What is the difference between map and filter?
