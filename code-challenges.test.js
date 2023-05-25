@@ -89,6 +89,7 @@ describe("firstIndex", () => {
         expect(firstIndex(vowelTester1)).toEqual("1")
         expect(firstIndex(vowelTester2)).toEqual("0")
         expect(firstIndex(vowelTester3)).toEqual("2")
+        
 
         ex
     })
