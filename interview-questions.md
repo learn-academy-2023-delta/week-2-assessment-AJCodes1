@@ -54,3 +54,4 @@ Research and define the following terms to the best of your ability.
 4. React props: properties of an object
 
 5. DOM events: a signal that something has ocurred, or is acurring and can be triggered by user interaction or by the browser.
+
