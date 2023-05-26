@@ -14,9 +14,8 @@ Researched answer: the values that are declared within a function when the funct
 
 2. The JavaScript built in method .map() takes predefined parameters. What are they? Which are required and which are optional?
 
-Your answer:
-
-Researched answer:
+Your answer: arrays, and index
+Researched answer: current value represents the current element beign processed, index represents the current index of he current element being processed, and array represents the array on which the .map() funtion was called.
 
 3. What is the difference between map and filter?
 
@@ -55,3 +54,4 @@ Research and define the following terms to the best of your ability.
 4. React props: properties of an object
 
 5. DOM events: a signal that something has ocurred, or is acurring and can be triggered by user interaction or by the browser.
+

@@ -54,15 +54,16 @@ console.log(myCodingSkills.languages[0])
 
 // --------------------STRETCH: What will this log?
 
-class Learn {
-  constructor(name) {
-    this.student = name
-    this.cohort = "Delta"
-    this.year = 2023
-  }
-}
-const learnStudent = new Learn("George")
-// console.log(learnStudent)
 
-// a) Your answer:
-// b) Verify and explain:
+// class Learn {
+//   constructor(name) {
+//     this.student = name
+//     this.cohort = "Delta"
+//     this.year = 2023
+//   }
+// }
+// const learnStudent = new Learn("George")
+// // console.log(learnStudent)
+
+// // a) Your answer:
+// // b) Verify and explain:
